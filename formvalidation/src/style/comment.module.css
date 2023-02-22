@@ -1,0 +1,28 @@
+.mid{
+   width: 450px;
+   height: 350px;
+    
+    position: absolute;
+    top: 300px;
+    left: 1100px;
+    text-align: center;
+    background-color: #f4f0fa;
+    box-shadow: 0 1px 8px rgba(0, 0, 0, 0.2);
+     padding: 1rem;
+    
+
+}
+
+select  {
+    border-radius: 5px;
+}
+input{
+    border-radius: 5px;
+}
+textarea {
+    border-radius: 5px;
+}
+.ptag{
+    color: red;
+    font-weight: 500;
+}

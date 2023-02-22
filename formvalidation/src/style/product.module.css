@@ -1,0 +1,35 @@
+h1 {
+   margin-left: 350px;
+}
+#p1{
+    margin-left: 1100px;
+
+    width: 450px;
+    text-align: center;
+    background-color: #f4f0fa;
+    box-shadow: 0 1px 8px rgba(0, 0, 0, 0.2);
+     padding: 1rem;
+    
+   
+}
+img{
+    margin-top: -200px;
+    
+}
+#btn{
+  display: flex;
+  position: absolute;
+  top: 680px;
+  left: 1290px;
+  
+   
+}
+button{
+  padding: 10px;
+  margin: 10px;
+    text-align: center;
+    background-color: black;
+    color: wheat;
+    border-radius: 5px;
+}
+
